@@ -22,6 +22,7 @@ JWT Token Authentication: Implement a secure authentication mechanism using JWT 
 One-to-Many Relationship: Establish an efficient solution to handle the one-to-many relationship between hotels and rooms.
 Exception Handling: Implement try-catch blocks to handle exceptions gracefully, providing meaningful error messages and ensuring system stability.
 Repository Pattern: Apply the repository pattern to separate the data access layer from the business logic, promoting code modularity and maintainability.
+
 # Approach
 Database Design: Define the database schema, including tables for hotels, rooms, and the necessary foreign key relationships.
 Code-First Development: Employ a code-first approach to generate the database schema based on the defined models and relationships using frameworks like Entity Framework.
@@ -33,7 +34,7 @@ JWT Token Authentication: Integrate JWT token authentication to secure the API e
 Exception Handling: Implement try-catch blocks to handle exceptions gracefully.
 One-to-Many Relationship: Design and implement the necessary database mappings and APIs to handle the one-to-many relationship between hotels and rooms.
 
-Getting Started
+# Getting Started
 To get started with this project, follow these steps:
 
 Clone the Repository: git clone <repository-url>
